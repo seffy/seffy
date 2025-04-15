@@ -49,7 +49,9 @@ I'm a **Technical Developer and Digital Learning Designer** with a unique blend 
 
 - `TaskPilot` – Content Development Manager & Automating request workflows across enterprise teams 🧩
 - `HireBuddy` – A task management tool built with Node.js, MongoDB & Docker 🚀  
-- `StudyMate` – Campus-based peer tutoring platform, built to connect and empower students 👥  
+- `StudyMate` – Campus-based peer tutoring platform, built to connect and empower students 👥
+- `Hardware Support Guide`
+- `Interactive Workflow` 
 
 ---
 

@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey there 👋 I'm Seffy!</h1>
+<h1 align="left">Hi, I'm Seffy!</h1>
 <p align="left">🔱 Tech-savvy Learning Designer and Developer <br> 🎨 Visual Thinker <br> ☕ Coffee-Powered Coder <br> 🍫 Chocolate Enthusiast  <br> 📺 Movie Marathoner  </p>
 
 ---

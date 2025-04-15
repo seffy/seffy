@@ -56,7 +56,6 @@ I'm a **Technical Developer and Digital Learning Designer** with a unique blend 
 ### ✨ Fun Facts
 
 - I believe well-designed learning experiences can change lives 🌱  
-- I once debugged issues with coffee, jazz, and sheer stubbornness 😅  
 - Chocolate and coffee are my sidekicks during long coding sessions ☕🍫
 
 

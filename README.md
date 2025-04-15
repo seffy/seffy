@@ -63,6 +63,3 @@ I'm a **Technical Developer and Digital Learning Designer** with a unique blend 
 ---
 
 ### 📬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seffysabana)  
-Feel free to reach out if you want to **collaborate, connect, or just chat tech and design!**

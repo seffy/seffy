@@ -1,15 +1,15 @@
 
-<h1 align="center">Hey there 👋 I'm Joseph</h1>
+<h1 align="center">Hey there 👋 I'm Seffy!</h1>
 <p align="center">🔱 Tech-savvy Learning Designer and Developer <br> 🎨 Visual Thinker <br> ☕ Coffee-Powered Coder <br> 🍫 Chocolate Enthusiast  <br> 📺 Movie Marathoner  </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Tech Dev and Digital Learning Designer** with a unique blend of skills in front-end development, UX/UI, instructional design, and creative media production.
+I'm a **Technical Developer and Digital Learning Designer** with a unique blend of skills across front-end development, UX/UI design, instructional design, and multimedia development.
 
 🎓 Currently, I’m completing a Master of Information Technology Management, where I’m advancing my skills in:
-  - Cloud-native application development and deployment
+  - Cloud Automation & Cloud-native application development and deployment
   - Python, Node.js, and modern front-end frameworks
   - Cybersecurity and API management
   - Real-world analytics and cloud automation
@@ -47,7 +47,7 @@ I'm a **Tech Dev and Digital Learning Designer** with a unique blend of skills i
 
 ### 📌 Current Projects
 
-- `TaskPilot` – Automating request workflows across enterprise teams 🧩
+- `TaskPilot` – Content Development Manager & Automating request workflows across enterprise teams 🧩
 - `HireBuddy` – A task management tool built with Node.js, MongoDB & Docker 🚀  
 - `StudyMate` – Campus-based peer tutoring platform, built to connect and empower students 👥  
 

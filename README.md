@@ -1,24 +1,22 @@
 
 <h1 align="left">Hi, I'm Seffy!</h1>
-<p align="left">🔱 Tech-savvy Learning Designer and Developer <br> 🎨 Visual Thinker <br> ☕ Coffee-Powered Coder <br> 🍫 Chocolate Enthusiast  <br> 📺 Movie Marathoner  </p>
-
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Technical Developer and Digital Learning Designer** with a unique blend of skills across front-end development, UX/UI design, instructional design, and multimedia development.
+🎓 Currently, I’m completing a Master of Information Technology Management, where I’m enhancing my expertise and expanding into new areas such as:
 
-🎓 Currently, I’m completing a Master of Information Technology Management, where I’m advancing my skills in:
-  - Cloud Automation & Cloud-native application development and deployment
-  - Python, Node.js, and modern front-end frameworks
-  - Cybersecurity and API management
-  - Real-world analytics and cloud automation
+- Project Management
+- Full Stack Development
+- Cloud automation and cloud-native application developmen
+- Node.js and modern front-end frameworks (building on existing front-end skills)
+- Cybersecurity and API management (developing understanding)
+- Python (beginner level — no prior background)
+- Real-world analytics (gaining foundational knowledge)
   
 🌏 Currently based in Melbourne, Australia (UTC+10)  
 
 🍿 Big fan of clever plots and epic storytelling — from tech thrillers to chill comedies.
-
-
 
 ---
 
@@ -42,16 +40,6 @@ I'm a **Technical Developer and Digital Learning Designer** with a unique blend 
   <img src="https://github-readme-stats.vercel.app/api?username=seffy&show_icons=true&theme=tokyonight" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seffy&layout=compact&theme=tokyonight" height="150px" />
 </p>
-
----
-
-### 📌 Current Projects
-
-- `.taskpilot` – Content Development Manager & Automating request workflows across enterprise teams 🧩
-- `HireBuddy` – A task management tool built with Node.js, MongoDB & Docker 🚀
-- `Interactive Workflow` 
-- `StudyMate` – Campus-based peer tutoring platform, built to connect and empower students 👥
-- `Hardware Support Guide`
 
 ---
 
